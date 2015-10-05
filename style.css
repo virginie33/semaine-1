@@ -1,0 +1,271 @@
+body {
+color:black;
+background-color:white;
+background-image:url(http://www.unesourisetmoi.info/data/images/photos/042/fonds-ecran-HD_wallpaper_06.jpg);
+}
+p
+{
+    text-shadow: 2px 2px 4px black;
+}
+
+
+#photo
+{
+    -webkit-transform-origin: 0 0;/* Safari, Chrome */
+    -ms-transform-origin: 0 0; /* IE */
+    -moz-transform-origin: 0 0; /* Firefox */
+    -o-transform-origin: 0 0; /* Opera */
+    transform-origin: 0 0; /* La transformation partira du coin en haut Ã  gauche */
+    
+    transform: rotate(10deg);
+} 
+#photo
+{
+    transform-origin: 100% 100%; /* En bas Ã  droite */
+} 
+
+body
+{
+    perspective: 8000px;
+} 
+#photo
+{
+    transform: scale(9.60);
+}  
+body {
+color:grey;
+background-color:white;
+
+}
+body {
+    margin: 0;
+    font-family: helvetica, arial, sans-serif;
+    font-size:.9em;
+}
+h1 {
+    font-size:1.9em;
+    text-align: left;
+}
+h1:first-letter {
+    font-size:3em;
+    color:#DF3F3F;
+}
+h2 {
+    font-size:1.3em; 
+    text-align: center;
+}
+
+
+
+
+
+@media screen and (max-width: 625px)
+{
+/* propriÃ©tÃ©s pour mobile */
+}
+@media screen and (max-width: 976px)
+{
+/* propriÃ©tÃ©s pour tablette */
+}
+body {
+ font-family:"times new roman", times, Times new roman;
+}
+body {
+ font-family:georgia, Times new roman;
+ }
+body {
+ font-family:"palatino linotype", palatino, Times new roman;
+ }
+body {
+ font-family:arial, sans-Times new roman;
+ font-size:100%;
+ }
+h1 {
+ font-size:200%;
+ }
+#footer p {
+ font-size:90%;
+ }
+}
+
+p
+{
+    text-shadow: 2px 2px 4px black;
+} 
+p
+{
+    font-size: 20px; /* Paragraphes de 20 pixels */
+}
+h1
+{
+    font-size: 40px; /* Titres de 30 pixels */
+} 
+}  
+body {
+color:grey;
+background-color:white;
+background-image:url('http://www.unesourisetmoi.info/data/images/photos/042/fonds-ecran-HD_wallpaper_06.jpg');
+}
+} 
+
+a:hover
+{   
+
+    
+}  
+a /* Liens par dÃ©faut (non survolÃ©s) */
+{
+ 
+   text-decoration: none;
+   color: red;
+   font-style: italic;
+}
+
+body {
+ font-family:"times new roman", times, Times new roman;
+}
+body {
+ font-family:georgia, Times new roman;
+ }
+body {
+ font-family:"palatino linotype", palatino, Times new roman;
+ }
+body {
+ font-family:arial, sans-Times new roman;
+ font-size:100%;
+ }
+h1 {
+ font-size:200%;
+ }
+#footer p {
+ font-size:90%;
+ }
+
+p
+{
+    color:Peru;
+} 
+
+
+#page {
+    width:100%;
+    margin: 0 auto;
+}
+header {
+    top:0px;
+	width: 100%;
+    line-height: 35px;
+    background-color: #070707;
+	box-shadow: 0 2px 2px #000;
+}
+section {
+    min-height: 500px;
+    width: 96%;
+    padding: 30px;
+    border-bottom: 1px solid #070707;
+}
+section.fndaccueil{
+    background-image: url("images/concrete_seamless.png"); 
+    background-repeat:repeat;
+}
+section.realisation{
+    background-image: url("images/concrete_seamless.png"); 
+    background-repeat:repeat;
+
+}
+section.gallerie {
+    background-image: url("images/subtle_white_mini_waves.png");
+    background-repeat:repeat;
+}
+section.certification {
+    background-image: url("images/upfeathers.png");
+    background-repeat:repeat;
+    clear: both;       
+
+}
+section.contact {
+    background-image: url("images/upfeathers.png");
+    background-repeat:repeat;
+    clear: both;       
+}
+article img {
+    width:98%;
+    padding: 0 2% 2% 0;
+}
+article iframe {
+    width:98%;
+    padding: 0 2% 2% 0;
+}
+article.quisuije {
+    margin: 50px 0px -10px 0; 
+
+}
+.glissiere img {
+    width: 150px;
+    height: 100px;
+    margin: 0 0 -14px -18px;
+}
+/*FORMULAIRE*/
+form {
+    width:480px;
+    font-size:.9em;
+ }
+fieldset {
+    padding:20px 20px 20px 20px;
+    margin-bottom:10px;
+    border:1px solid #DF3F3F;
+    border-radius: 5px;
+ }
+legend {
+    color:#DF3F3F;
+    font-weight:bold
+ }
+label {
+    margin-top:10px;
+    width: 100px;
+    display:inline-block;
+    vertical-align: top;
+    text-align: right;
+ }
+input {
+    padding:3px;
+    width:312px;
+    margin-top: 10px;
+    border:1px solid #DF3F3F;
+    background-color:#F5C5C5;
+ }
+textarea {
+    padding:3px;
+    height: 150px;
+    width:312px;
+    margin-top: 10px;
+    border:1px solid #DF3F3F;
+    background-color:#F5C5C5;
+ }
+input[type=submit] 
+	{
+	border-radius:5px;
+	margin:20px 0 0 345px;
+	height:30px;
+	width:80px;
+	color:#393939;
+	font-size:130%;
+	}
+input:hover[type=submit] 
+	{
+	color:#F5C5C5;
+	border:3px solid red;
+	font-weight:bold;
+	margin:10px 0 0 335px;
+	height:50px;
+	width:100px;
+    color:#070707;
+	transition-property: all;
+	transition-duration: 0.5s;
+	cursor:pointer;
+	}
+.frm, .imgContact {
+    display: inline-block;
+    vertical-align: top;
+    width: 48%;  
+}
